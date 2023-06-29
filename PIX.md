@@ -33,14 +33,20 @@ Para criar sua chave PIX, siga os passos abaixo.
 1. Abra o aplicativo do seu banco em seu celular.
 2. Insira as suas informações para acessar sua conta.
 3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
+   
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
 
-4. Clique em **Minhas chaves**. Uma nova página irá abrir, mostrando todas as suas **Chaves Pix** já cadastradas em sua conta.
+5. Clique em **Minhas chaves**. Uma nova página irá abrir, mostrando todas as suas **Chaves Pix** já cadastradas em sua conta.
 
-5. Clique em **Cadastrar Chave**. 
+![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/2.PNG)
+
+7. Clique em **Cadastrar Chave**. 
     - Caso você tenha uma conta poupança ligada à sua conta corrente, escolha para qual das duas você deseja criar sua nova chave.
-6. Escolha o tipo de chave que você quer criar: CPF, celular, e-mail ou uma chave aleatória.
+8. Escolha o tipo de chave que você quer criar: CPF, celular, e-mail ou uma chave aleatória.
 
-7. Confirme a sua escolha. A chave será criada a seguir.
+![pix types](https://github.com/Karina244/pix-tutorial/blob/main/4.PNG)
+
+9. Confirme a sua escolha. A chave será criada a seguir.
 
 ## QR Code
 Esta ferramenta é muito utilizada em comércios, onde o lojista pode gerar um **QR Code** estático ou dinâmico para receber o pagamento por suas vendas, sendo que a diferença é que um pode ser impresso em um papel e usado mais de uma vez, enquanto o outro muda para cada venda feita. No entanto, qualquer um pode usar o **QR Code** como forma de receber um pagamento.
@@ -54,9 +60,15 @@ Para gerar o seu QR Code, siga os passos abaixo:
 2. Insira as suas informações para acessar sua conta.
 3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
 
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
+
 4. Clique em **Cobrar**.
+
+![cobrar button](https://github.com/Karina244/pix-tutorial/blob/main/3.PNG)
 
 5. Insira o valor que deseja receber no campo indicado.
 6. Confirme o valor e clique em **Criar QR Code**. Uma nova página irá carregar com o código criado.
+
+![cobrar screen](https://github.com/Karina244/pix-tutorial/blob/main/5.PNG)
 
 7. Envie o **QR Code** para a pessoa que irá fazer a transferência do dinheiro para você e aguarde o valor cair na sua conta.
