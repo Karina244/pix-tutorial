@@ -1,9 +1,9 @@
 # Usando Pix para recebimentos
-Você pode receber um valor através do Pix em sua conta corrente, conta poupança ou conta de pagamento a qualquer hora do dia. O Pix funciona 24 horas por dia, todos os dias da semana, entre quaisquer bancos ou fintechs, além de ser muito seguro e ter suas transações concluídas em apenas alguns segundos.
+Você pode receber um valor através do Pix em sua conta corrente, conta poupança ou conta de pagamento a qualquer hora do dia. O Pix funciona 24 horas por dia a todos os dias da semana e pode ser feito entre quaisquer bancos ou fintechs, além de contar com a segurança oferecida pelo Banco Central e ter as suas transações concluídas em apenas alguns segundos.
 
-Para receber um Pix, basta que você tenha uma **Chave Pix** cadastrada em sua conta ou que gere um **QR Code**. Como não é necessário que você saiba as informações bancárias da pessoa para quem está enviando o dinheiro ao usar o Pix, é através destas ferramentas que o sistema poderá encontrar o remetente.
+Para receber um Pix, basta que você tenha uma **Chave Pix** cadastrada em sua conta ou que gere um **QR Code**. Como não é necessário informar os dados bancários da pessoa para quem se está enviando o dinheiro ao usar o Pix, é através destas ferramentas que o sistema poderá encontrar a conta que irá receber a transferência.
 
-Leia a seguir mais informações sobre cada uma delas.
+Leia a seguir mais informações sobre cada uma das ferramentas citadas.
 
 ## Chave Pix
 No momento em que você acessar a página direcionada ao Pix no site ou aplicativo móvel do seu banco, o seu usuário Pix será criado e, logo depois, você poderá criar sua primeira **Chave Pix**.
@@ -14,7 +14,7 @@ As pessoas físicas podem ter *até cinco chaves* por conta bancária da qual se
 - Endereço de e-mail;
 - Chave aleatória.
 
-Note que você só pode cadastrar o seu CPF em uma conta da sua titularidade e que tanto o CPF quanto um mesmo número de telefone e/ou e-mail só podem ser usados uma única vez. Portanto, caso tenha cadastrado qualquer um desses tipos de **Chave Pix** em uma conta, mas deseje transferir para outra, você precisará fazer a portabilidade.
+Note que você só pode cadastrar o seu CPF como **Chave Pix** em uma conta que seja da sua titularidade e que o CPF e mesmo número de telefone e/ou e-mail só podem ser usados uma única vez; independentemente da quantidade de contas que você tenha. Portanto, caso tenha cadastrado qualquer um desses tipos de chave em uma conta, mas deseje transferir para outra, você precisará [fazer a portabilidade](https://github.com/Karina244/pix-tutorial/blob/main/PIX.md#fazendo-a-portabilidade-de-uma-chave-pix).
 
 > **Dica:** A **Chave Aleatória** é um texto composto por uma sequência de letras e números intercalados, gerada pelo Banco Central. Cada Chave Aleatória é única, o que significa que você pode ter uma para cada conta.
 
@@ -31,12 +31,12 @@ Note que você só pode cadastrar o seu CPF em uma conta da sua titularidade e q
 Para criar sua chave PIX, siga os passos abaixo.
 
 1. Abra o aplicativo do seu banco em seu celular.
-2. Insira as suas informações para acessar sua conta.
-3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
+2. Insira as suas informações para acessar sua conta. Pr exemplo: o número de sua conta corrente, agência e senha.
+3. Na tela principal, clique no ícone do **Pix**. A página da área Pix irá abrir.
    
 ![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
 
-5. Clique em **Minhas chaves**. Uma nova página irá abrir, mostrando todas as suas **Chaves Pix** já cadastradas em sua conta.
+5. Clique em **Minhas chaves**. Uma nova página irá abrir, mostrando todas as **Chaves Pix** já cadastradas em sua conta.
 
 ![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/2.PNG)
 
@@ -49,7 +49,7 @@ Para criar sua chave PIX, siga os passos abaixo.
 9. Confirme a sua escolha. A chave será criada a seguir.
 
 ## QR Code
-Esta ferramenta é muito utilizada em comércios, onde o lojista pode gerar um **QR Code** estático ou dinâmico para receber o pagamento por suas vendas, sendo que a diferença é que um pode ser impresso em um papel e usado mais de uma vez, enquanto o outro muda para cada venda feita. No entanto, qualquer um pode usar o **QR Code** como forma de receber um pagamento.
+Esta ferramenta é muito utilizada em comércios, onde o lojista pode gerar um **QR Code** estático ou dinâmico para receber o pagamento por suas vendas, sendo que a diferença é que um pode ser usado mais de uma vez, enquanto o outro muda para cada venda feita. No entanto, qualquer um que tenha uma conta pode usar o **QR Code** como forma de receber um pagamento ou transferência.
 
 Diferentemente de como funciona com a **Chave Pix**, a pessoa física não precisa fazer um cadastro previamente para poder receber através do **QR Code**. Basta que ela entre em seu aplicativo bancário e gere o código.
 
@@ -72,3 +72,6 @@ Para gerar o seu QR Code, siga os passos abaixo:
 ![cobrar screen](https://github.com/Karina244/pix-tutorial/blob/main/5.PNG)
 
 7. Envie o **QR Code** para a pessoa que irá fazer a transferência do dinheiro para você e aguarde o valor cair na sua conta.
+
+## Fazendo a portabilidade de uma Chave Pix
+Exemplo.
