@@ -14,7 +14,7 @@ As pessoas físicas podem ter *até cinco chaves* por conta bancária da qual se
 - Endereço de e-mail;
 - Chave aleatória.
 
-Note que você só pode cadastrar o seu CPF como **Chave Pix** em uma conta que seja da sua titularidade e que o CPF e mesmo número de telefone e/ou e-mail só podem ser usados uma única vez; independentemente da quantidade de contas que você tenha. Portanto, caso tenha cadastrado qualquer um desses tipos de chave em uma conta, mas deseje transferir para outra, você precisará [fazer a portabilidade](https://github.com/Karina244/pix-tutorial/blob/main/PIX.md#fazendo-a-portabilidade-de-uma-chave-pix).
+Note que você só pode cadastrar o seu CPF como **Chave Pix** em uma conta que seja da sua titularidade e que o CPF e mesmo número de telefone e/ou e-mail só podem ser usados uma única vez; independentemente da quantidade de contas que você tenha. Portanto, caso tenha cadastrado qualquer um desses tipos de chave em uma conta, mas deseje transferir para outra, você precisará [fazer a portabilidade](https://github.com/Karina244/pix-tutorial/blob/main/README.md#fazendo-a-portabilidade-de-uma-chave-pix).
 
 > **Dica:** A **Chave Aleatória** é um texto composto por uma sequência de letras e números intercalados, gerada pelo Banco Central. Cada Chave Aleatória é única, o que significa que você pode ter uma para cada conta.
 
@@ -34,17 +34,17 @@ Para criar sua chave PIX, siga os passos abaixo.
 2. Insira as suas informações para acessar sua conta. Por exemplo: insira o número de sua conta corrente, agência e senha.
 3. Na tela principal, clique no ícone do **Pix**. A página da área Pix irá abrir.
    
-![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/images/1.PNG)
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/Images/1.PNG)
 
 5. Clique em **Minhas chaves**. Uma nova página irá abrir, mostrando todas as **Chaves Pix** já cadastradas em sua conta.
 
-![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/images/2.PNG)
+![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/Images/2.PNG)
 
 7. Clique em **Cadastrar Chave**. 
     - Caso você tenha uma conta poupança ligada à sua conta corrente, escolha para qual das duas você deseja criar sua nova chave.
 8. Escolha o tipo de chave que você quer criar: CPF, celular, e-mail ou uma chave aleatória.
 
-![pix types](https://github.com/Karina244/pix-tutorial/blob/main/images/4.PNG)
+![pix types](https://github.com/Karina244/pix-tutorial/blob/main/Images/4.PNG)
 
 9. Confirme a sua escolha. A chave será criada a seguir.
 
@@ -60,16 +60,16 @@ Para gerar o seu QR Code, siga os passos abaixo:
 2. Insira as suas informações para acessar sua conta. Por exemplo: insira o número de sua conta corrente, agência e senha.
 3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
 
-![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/images/1.PNG)
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/Images/1.PNG)
 
 4. Clique em **Cobrar**.
 
-![cobrar button](https://github.com/Karina244/pix-tutorial/blob/main/images/3.PNG)
+![cobrar button](https://github.com/Karina244/pix-tutorial/blob/main/Images/3.PNG)
 
 5. Insira o valor que deseja receber no campo indicado.
 6. Confirme o valor e clique em **Criar QR Code**. Uma nova página irá carregar com o código criado.
 
-![cobrar screen](https://github.com/Karina244/pix-tutorial/blob/main/images/5.PNG)
+![cobrar screen](https://github.com/Karina244/pix-tutorial/blob/main/Images/5.PNG)
 
 7. Envie o **QR Code** para a pessoa que irá fazer a transferência do dinheiro para você e aguarde o valor cair na sua conta.
 
@@ -80,11 +80,11 @@ Para fazer a portabilidade da sua **Chave Pix** para uma conta em um banco difer
 2. Insira as suas informações para acessar sua conta para a qual você deseja fazer a portabilidade.
 3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
 
-![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/images/1.PNG)
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/Images/1.PNG)
 
 4. Clique em **Minhas chaves**. Uma nova página irá abrir.
 
-![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/images/2.PNG)
+![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/Images/2.PNG)
 
 5. Clique em **Portabilidade** e escolha a seguir qual o tipo de chave você deseja fazer a portabilidade para a sua conta.
 6. Confirme a criação da chave.
