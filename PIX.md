@@ -31,7 +31,7 @@ Note que você só pode cadastrar o seu CPF como **Chave Pix** em uma conta que 
 Para criar sua chave PIX, siga os passos abaixo.
 
 1. Abra o aplicativo do seu banco em seu celular.
-2. Insira as suas informações para acessar sua conta. Pr exemplo: o número de sua conta corrente, agência e senha.
+2. Insira as suas informações para acessar sua conta. Por exemplo: insira o número de sua conta corrente, agência e senha.
 3. Na tela principal, clique no ícone do **Pix**. A página da área Pix irá abrir.
    
 ![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
@@ -57,7 +57,7 @@ Diferentemente de como funciona com a **Chave Pix**, a pessoa física não preci
 Para gerar o seu QR Code, siga os passos abaixo:
 
 1. Abra o aplicativo do seu banco em seu celular.
-2. Insira as suas informações para acessar sua conta.
+2. Insira as suas informações para acessar sua conta. Por exemplo: insira o número de sua conta corrente, agência e senha.
 3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
 
 ![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
@@ -74,4 +74,18 @@ Para gerar o seu QR Code, siga os passos abaixo:
 7. Envie o **QR Code** para a pessoa que irá fazer a transferência do dinheiro para você e aguarde o valor cair na sua conta.
 
 ## Fazendo a portabilidade de uma Chave Pix
-Exemplo.
+Para fazer a portabilidade da sua **Chave Pix** para uma conta em um banco diferente do qual a sua chave do tipo *CPF*, *número de telefone* e/ou *e-mail* está atualmente cadastrada, siga os passos a seguir:
+
+1. Abra o aplicativo do seu banco em seu celular.
+2. Insira as suas informações para acessar sua conta para a qual você deseja fazer a portabilidade.
+3. Na tela principal, clique no ícone do **Pix**. A página do Pix irá abrir.
+
+![pix icon](https://github.com/Karina244/pix-tutorial/blob/main/1.PNG)
+
+4. Clique em **Minhas chaves**. Uma nova página irá abrir.
+
+![minhas chaves button](https://github.com/Karina244/pix-tutorial/blob/main/2.PNG)
+
+5. Clique em **Portabilidade** e escolha a seguir qual o tipo de chave você deseja fazer a portabilidade para a sua conta.
+6. Confirme a criação da chave.
+
